@@ -4,7 +4,7 @@ import os
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = ("SECRET_KEY")
-# django-insecure-)1^al_5o5r)a&03fr=9x36$n7wlykfxh5%if1=zb50bwz8_vad
+
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
